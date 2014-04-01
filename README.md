@@ -1,6 +1,8 @@
 coursera-machine-learning
 =========================
 
-homework for the course machine learning on coursera
+homework from the machine learning course on coursera.org 
+https://www.coursera.org/course/ml
+ 
 
 Instruction are in the file 'instructions.pdf' in every folder 
